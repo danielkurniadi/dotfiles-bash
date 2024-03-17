@@ -1,0 +1,17 @@
+# Application specific files that should be ignored
+Webull Desktop
+iterm2/
+
+# Packages specific files that should be ignored
+configstore/
+yarn/
+octant/
+gcloud/
+flutter/
+
+# Logging
+logs/
+
+# JHBuild
+jhbuildrc
+jhbuildrc-custom
